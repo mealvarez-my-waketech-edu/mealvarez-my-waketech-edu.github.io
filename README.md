@@ -4,6 +4,7 @@ Hi, my name is **Mark Alvarez** and This is my school account and this repositor
 > We are what we repeatedly do, therefore excellence is not an act, but a habit - **_Aristotle_**
 
 ![Aristotle][Picture]
+
 [Picture]: https://commons.wikimedia.org/wiki/Category:Aristotle#/media/File:Aristotle_Altemps_Inv8575.jpg
 
 ### **My Interests**
