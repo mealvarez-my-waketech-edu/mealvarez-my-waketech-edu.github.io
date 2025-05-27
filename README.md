@@ -3,6 +3,7 @@
 Hi, my name is **Mark Alvarez** and This is my school account and this repository will hold assignments. I am currently a student who is pursuing a degree in business analytics at Wake Technical Community College. This class is the first I have taken in web design and I am finding this challenging but interesting. In times like these I try to remember this quote:  
 > We are what we repeatedly do, therefore excellence is not an act, but a habit - **_Aristotle_**
 
+#### Here is a _large_ image of Aristotle because I didnt know how to make it smaller!
 ![Aristotle](https://upload.wikimedia.org/wikipedia/commons/0/05/Head_of_Aristotle.jpg)
 
 ### **My Interests**
